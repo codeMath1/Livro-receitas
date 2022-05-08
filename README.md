@@ -2,5 +2,5 @@
 
 Olá! Bem-vindo ao meu livro de receitas :ocean:
 
-- Lasanha de carne
+- Lasanh de carne
 - Paprica 
