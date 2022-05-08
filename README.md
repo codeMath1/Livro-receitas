@@ -2,5 +2,6 @@
 
 Olá! Bem-vindo ao meu livro de receitas :ocean:
 
-- Lasanh de carne
+- Lasanha de carne
 - Paprica 
+- Strogonoff
